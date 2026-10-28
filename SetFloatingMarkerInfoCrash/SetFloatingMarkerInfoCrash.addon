@@ -1,0 +1,9 @@
+## Title: SetFloatingMarkerInfoCrash
+## Description: ZOS bug repro; two SetFloatingMarkerInfo(MAP_PIN_TYPE_AGGRO) callers on EVENT_PLAYER_ACTIVATED.
+## APIVersion: 101051 101052
+## AddonVersion: 1
+## Version: 1
+
+init.lua
+setter1/setter1.lua
+setter2/setter2.lua
